@@ -4,7 +4,7 @@
 
 ## Stack
 
-`Python` · `Java` · `Kotlin` · `Android` · `TypeScript` · `JavaScript` · `C` · `Linux` · `Cloudflare` · `Vercel`
+`Python` · `Java` · `Kotlin` · `Android` · `TypeScript` · `JavaScript` · `C` · `Linux` 
 
 ## Links
 
