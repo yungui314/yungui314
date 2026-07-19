@@ -9,11 +9,6 @@
     Android tinkerer · Systems enthusiast · Open-source builder
   </p>
 
-  <p>
-    <a href="https://88mo.cn"><img src="https://img.shields.io/badge/Blog-88mo.cn-2f6f5e?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
-    <a href="https://github.com/yungui314/HyperIconPack/releases/latest"><img src="https://img.shields.io/github/v/release/yungui314/HyperIconPack?style=flat-square&label=Hyper%20Icon%20Pack&color=315c8c" alt="Hyper Icon Pack release" /></a>
-    <a href="https://t.me/yungui314"><img src="https://img.shields.io/badge/Telegram-@yungui314-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  </p>
 </div>
 
 ## About me
