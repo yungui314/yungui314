@@ -18,27 +18,27 @@
 
 ## About me
 
-我是云归，喜欢把系统调到刚刚好，也喜欢把折腾的过程做成真正能用的工具。
+臭用AI的，不会写代码。
 
-- 正在开发 [Hyper Icon Pack](https://github.com/yungui314/HyperIconPack)，让标准 Android 图标包能在 Xiaomi HyperOS 中使用。
-- 关注 Android 系统定制、Root / LSPosed、Linux 内核、网络和轻量云服务。
-- 在 [雲归的小站](https://88mo.cn) 记录技术实践、学习笔记和一些有趣的东西。
+## Console
 
-## Current focus
+```text
+> whoami
+HyperOS tinkerer with a soft spot for small, controllable tools.
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/yungui314/HyperIconPack">Hyper Icon Pack</a></h3>
-      <p>将 Nova、ADW、Lawnchair 等标准 Android 图标包转换成 HyperOS 可读取的系统主题资源，并支持 Monet 配色、存档切换和增量更新。</p>
-      <p><code>Kotlin</code> <code>Android</code> <code>Root</code> <code>LSPosed</code> <code>Miuix</code></p>
-    </td>
-    <td width="42%" valign="top">
-      <h3>Things I explore</h3>
-      <p>Android internals<br />Kernel &amp; system customization<br />Networking &amp; self-hosting<br />Cloudflare &amp; Vercel</p>
-    </td>
-  </tr>
-</table>
+> latest build
+Hyper Icon Pack — making standard Android icon packs work on Xiaomi HyperOS.
+
+> side quests
+Kernels / networking / self-hosting / suspicious late-night experiments
+```
+
+## Operating manual
+
+- Default state: rebuilding something that worked yesterday.
+- Preferred fix: the smallest tool that gets the job done.
+- Natural habitat: Android logs, a shell, and too many browser tabs.
+- Field notes live at [88mo.cn](https://88mo.cn).
 
 ## Toolbox
 
@@ -60,4 +60,3 @@
     <img src="https://raw.githubusercontent.com/yungui314/yungui314/output/github-contribution-grid-snake.svg" alt="Yungui's contribution graph" />
   </picture>
 </div>
-
